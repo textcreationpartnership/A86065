@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods revenge upon his Parliaments and peoples enemies, by the examples of some great malignants, whom God hath punished to give others warning. Being a true relation of foure citizens of London dwelling on Ludgate-hill, that went to Oxford, and with others as ill affected as themselves, drank healths to the confusion of the Parliament, as they came home, one of them broke his leg, another broke his backe, and the other two fell mad, all remaining in a miserable condition: together with the like example of the Lord Hopton at Madbury neere Plymouth, and one M. Turner vintner at the Halfe Moone at Oxford. Also the discovery of a bloudy plot against the City of London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86065</idno>
+            <idno type="STC">Wing G961</idno>
+            <idno type="STC">Thomason E91_13</idno>
+            <idno type="STC">ESTC R22113</idno>
+            <idno type="EEBO-CITATION">99871592</idno>
+            <idno type="PROQUEST">99871592</idno>
+            <idno type="VID">124004</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86065)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124004)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods revenge upon his Parliaments and peoples enemies, by the examples of some great malignants, whom God hath punished to give others warning. Being a true relation of foure citizens of London dwelling on Ludgate-hill, that went to Oxford, and with others as ill affected as themselves, drank healths to the confusion of the Parliament, as they came home, one of them broke his leg, another broke his backe, and the other two fell mad, all remaining in a miserable condition: together with the like example of the Lord Hopton at Madbury neere Plymouth, and one M. Turner vintner at the Halfe Moone at Oxford. Also the discovery of a bloudy plot against the City of London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 3 in the imprint date is crossed out; "March. 1. 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term>Turner, --  M., vintner.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124004:1" rendition="simple:additions"/>
+            <p>GODS REVENGE Vpon his Parliaments AND Peoples Enemies, by the examples of ſome great Malignants, whom God hath puniſhed to give others warning.</p>
+            <p>
+               <hi>Being a true Relation of foure Citizens of</hi> London <hi>dwel<g ref="char:EOLhyphen"/>ling on</hi> Ludgate-hill, <hi>that went to</hi> Oxford, <hi>and with o<g ref="char:EOLhyphen"/>thers as ill affected as themſelves, drank healths to the confuſion of the Parliament, as they came home, one of them broke his leg, another broke his backe, and the other two fell mad, all remaining in a miſerable condition: together with the like example of the Lord</hi> Hopton <hi>at Madbury neere Plymouth, and one M.</hi> Turner <hi>Vintner at the half Moone at Oxford.</hi>
+            </p>
+            <p>Alſo the Diſcovery of a bloudy Plot againſt the City of LONDON.</p>
+            <p>LONDON, Printed for <hi>R. Johnſon.</hi> 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <add>March .1. 1642</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb facs="tcp:124004:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:124004:2"/>
+            <head>GODS Revenge againſt his Parlia<g ref="char:EOLhyphen"/>ments and Peoples enemies.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is made plain enough to thoſe whoſe eys are in their heads, that the enemies of the Parliament are the enemies of the Lord; but the Devill, and Papiſts, and a company of ill-affected people have blin<g ref="char:EOLhyphen"/>ded the eys of many amongſt us, that they cannot ſee it, and therefore will not believe it: but ſuch is Gods goodneſſe to this poor Kingdome of <hi>England,</hi> that he hath wrought by his Parliament wonderfully, and beyond the reach of naturall reaſon, to convince the enemies of the truth, and yet they will not believe; therefore God hath of late ſent ſtrange judgements upon ſome of them, to give the reſt warning: One M. <hi>Turner</hi> a Vintner in <hi>Oxford,</hi> that kept a Taverne at the ſigne of the halfe Moone in the ſaid towne of <hi>Oxford,</hi> where (with other malignants that came to him as gueſts to drink in his houſe, deſired his com<g ref="char:EOLhyphen"/>pany) amongſt other ſtrange diſcourſe which they had, they fell to drinking of healths, and amongſt the reſt he began an health to the confuſion of the Round-heads, and in a great bravado drank off his glaſſe of wine, and then leaped, and cut two or three capers, praying for their confuſion, but ſee the judg<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:124004:3"/>of God, who ſees all the wayes of man, and judgeth them according to the wickedneſſe of their inventions, he fell down and brake his leg, and he was carried home in great paine, but he never reco<g ref="char:EOLhyphen"/>vered of it, it coſt him his life; ſo that indeed the confuſion fell upon himſelf, a fearfull example: I judge not his eternall condition, for whether he re<g ref="char:EOLhyphen"/>pented or not, I cannot tell, I pray God others may take heed by his example.</p>
+            <p>Another example did lately befall Sir <hi>Ralph,</hi> now made Lord <hi>Hopton,</hi> a wonderfull and remarkable judgment: The Earl of <hi>Stamford</hi> being in <hi>Plymouth</hi> and keeping it for the King and Parliament, having done worthily in oppoſing him, now at laſt the Lord <hi>Hopton</hi> being exceedingly puft up with the vain glory of being a Baron, forgot himſelf the more, and God too, drew up his forces for <hi>Plymouth,</hi> and marched a<g ref="char:EOLhyphen"/>gainſt the Earl of <hi>Stamford,</hi> aſſuring himſelf of the taking thereof, and therfore he would firſt, with ſome of his Commanders, viſit the tavern in a little town called <hi>Modbury</hi> neer <hi>Plymouth,</hi> and fell to drinking of healths, they drunk the Kings health, I blame them not for loving the King, I pray God bleſſe His Maje<g ref="char:EOLhyphen"/>ſty, all that love and honour him, not only in words, but really from their hearts: but to proceed in my diſcourſe, divers other healths they drunk, but at laſt the new made Baron began a health to the confuſion of the Roundheads, and made them all to pledge it: this he did in great confidence of overcoming the Earl of <hi>Stamford,</hi> and taking <hi>Plymouth,</hi> where he re<g ref="char:EOLhyphen"/>ſolved to play the part of a true Cavalier-plunderer;
+<pb n="2" facs="tcp:124004:3"/>to the confuſion of proteſtants, that ſtood for the king &amp; Parliament, and having thus pleaſed his own fancy with the promiſe of vaine hope, and deceived expec<g ref="char:EOLhyphen"/>tation, he departed the towne with his fill of the juyce of the grapes, and marching neerer to <hi>Plymouth</hi> the Army was perceved by the Earle of <hi>Stamfords</hi> forces, who beat an Alarm, and came againſt him with an un<g ref="char:EOLhyphen"/>daunted courage, they played their Canons and Muskets, and fought ſtifly on both ſides, but ſee what is the event of drinking ſuch healths, he got that day ſuch an overthrow, as he is never like to repaire the ruines thereof, with the loſſe of divers commanders, hundreds of his ſouldiers, and it is reported that him<g ref="char:EOLhyphen"/>ſelfe is dangerouſly hurt, ſo that they to whom he wiſhed confuſion, their Army have brought him to a miſerable condition, God give him grace to call for mercy: he was ſo vaine glorious of this de<g ref="char:EOLhyphen"/>termination, that meſſengers brought word to <hi>London</hi> from him, that he had taken <hi>Plymouth</hi> before the battle began but God diſpoſed it otherwiſe, let others take warning of the like attempt.</p>
+            <p>But to come to the laſt and cheefe part of my diſ<g ref="char:EOLhyphen"/>courſe, namely concerning foure Citizens of <hi>London,</hi> two of which are Habbadaſhers, and the other two Hoſiers all neighbours on Lud-gat hill, I forbear their names, in modeſty they are well enough known theſe foure malignants reſolved to go for <hi>Oxford,</hi> pretend<g ref="char:EOLhyphen"/>ing to put off ſome rich wares that they had this dead times which here they could not, but to <hi>Oxford</hi> they went, and being there they found out acquantance
+<pb n="4" facs="tcp:124004:4"/>ſutable to their deſires, what other matters they did at <hi>Oxford,</hi> I ſtand not to diſpute, only it is reported that they with their <hi>Oxford</hi> acquaintance went to the ta<g ref="char:EOLhyphen"/>vern, where they were very merry, and drank hard, amongſt the reſt, they drank the Kings heal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the Queens, Princes and Prince <hi>Ruperts</hi> health, and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they dranke an helliſh, and deviliſh health, b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> from hell, but now too often uſed by malign<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Cavaliers, they drank an health to the confuſion of the Parliament, and ſo parted, but mark what f<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>low<g ref="char:EOLhyphen"/>ed, having ſtayed at <hi>Oxford</hi> ſo long as they thought fit; they repaired to their Inne, and called for their horſes, on which they mount and for <hi>London</hi> they come, with hearts as baſe, and full of rankor againſt the Parliament as before, but juſtice over took them, and ſmote them by the way: and they are made ex<g ref="char:EOLhyphen"/>amples for all malignants to look upon; one of them fell from his horſe, &amp; by accident broke his leg moſt dangerouſly of whom the reſt had the beſt care they could, had him to a Chirurgeon &amp; got him looked to, and had the beſt meanes they could obtain, a ſecond fell from his horſe in ſuch a grievous manner that he broke his back, and all buriſed his body in moſt la<g ref="char:EOLhyphen"/>mentable wiſe in ſo much that it is thought he will hardly eſcape it. The other two ſeeing theſe diſaſters, and being ſmitten in conſcience for their drinking of healths to confuſion of the Parliament they began to be deſtracted which encreaſed ſo much by reaſon of the conſideration of their great abuſe to the King and Parliament, and the fearefull ſights they had beheld of their fellowes, they were exceedingly deſtracted,
+<pb n="5" facs="tcp:124004:4"/>and raged in a wonderfull manner, in ſo much that their braines were exceedingly broken, and they were indeed mad, in this miſerable condition were they all foure brought to their own houſes at Ludgate hill, where they are all neighbours, and there they lie in a moſt miſerable, and deplorable condition, yet ſome of them, have found ſome amendment ſince there coming home, and have expreſt ſome appearance of ſorrow and repentance, only he who hath broke his back is in moſt danger, as it is reported, to eſcape it, God give him grace to call for mercy, and give us all grace to truſt in him, God bleſſe the King and Parlia<g ref="char:EOLhyphen"/>ment, and bleſſe this poor kingdom, the Lord remove all our troubles, deliver us from all our enemies, and ſettle us in peace.</p>
+         </div>
+         <div type="letter">
+            <head>The Copie of a Letter of dangerous conſequence, diſcovering the bloudy Trage<g ref="char:EOLhyphen"/>dy to have been acted on Sunday the fift of March, intercepted at one of the Courts of Guard of the City of London.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>I Have defired at this time to make you acquainted with a ſecret work we have now in agitation; which if it ſhould be diſcovered we are all undone, but if it take effect, we are all made for ever, for then three
+<pb n="6" facs="tcp:124004:5"/>Kingdoms are as good as our own: the thing is th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> If you and your friends can but procure men enou<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> well armed on Sunday the fifth of March, to riſe all <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one hour, about three of the clock after noon, an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> go in three parts, one to Saint <hi>Mary Maudlins,</hi> one to St. <hi>Toolis,</hi> and one to St. <hi>Mary Overies,</hi> for at theſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pariſhes do the Roundheads meet; and when you come there ſlay man, woman, and childe, then let us alone for bringing the ſame thing to paſſe at the ſame houre in the Citie, at the Dutch Church, at <hi>Tills</hi> A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>church, at <hi>Sturries</hi> Walbrook, at <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſons</hi> Thred<g ref="char:EOLhyphen"/>needle ſtreet, <hi>Calamies</hi> Aldermanbury <hi>Cordwells</hi> Lum<g ref="char:EOLhyphen"/>barſtreet, Grays-In, and divers others which we have good intelligence of: Likewiſe without the Citie, as at Weſtminſter, where the Rebels meet, <hi>Evins</hi> Temple, bar, Stepney, Whitechappell, and Aldgate, and by this time I hope they will be well ſhred. So to con<g ref="char:EOLhyphen"/>clude, I pray Worthy ſir ſtay the meſſenger at yo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> houſe a day or two, and then ſend me word what you can do in this thing. One thing more to encourage you and your friends is this: we have men come to is every day ſome from France, &amp; ſome from Ireland they come by 20, and 10, and 12, and 7, and 5 in a company, and two, and yet theſe Roundheadly Rogues cannot ſtay them: we have friends in the Roundheads Army, both Commanders and Souldiers which maketh us hope for the day: There is Col. H. and two other which are our good friends, therefore be not diſc<g ref="char:EOLhyphen"/>ouraged, but be vigilant in this cauſe, So in haſt I re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
